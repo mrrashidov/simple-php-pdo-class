@@ -1,7 +1,6 @@
 # Simple-PHP-PDO-Class
 [![API](https://img.shields.io/badge/Simple%20PHP%20Class%20PHP-Aprel%2026%2C%202020-36ade1.svg)](https://core.telegram.org/bots/api)
 ![PHP](https://img.shields.io/badge/php-%3E%3D5.6-8892bf.svg)
-![CURL](https://img.shields.io/badge/cURL-required-green.svg)
 
 
 Simple-PHP-PDO-Class bu phpda oson CRUID ishlamlari uchun yozilgan open source code.
